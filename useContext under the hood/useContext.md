@@ -27,7 +27,7 @@ const MyComponent = () => {
 };
 ```
 
-# حسنا نأتي الان لكيف تعمل ال useContext بطريقة مبسطة
+# حسنا نأتي الان لكيفية عمل ال useContext بطريقة مبسطة
 
 - عندما نستخدم `MyContext.Provider` لنقوم بعمل wrap على components tree حين اذ تقوم بعمل شي يسمى `React Subscription` في كل مره القيمة تتغير وهذا ال `React Subscription` هو بشكل اساسي الطريقة للكونات او components للاشتراك في التغيرات التي في هذا ال context
 
