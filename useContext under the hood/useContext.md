@@ -2,7 +2,7 @@
 
 # What's useContext 
 
-اولا يجب ان نعرف ما هيا ال useContext : هي عبارة عن react hook و هي جزء من react `API` تسمح لنا بالاشتراك في ال context و توفر لنا الطريقة لكي نقوم بمشاركة البيانات في ال components tree بدون استخدام `props` بطريقة يدويه او استخدام nesting components كما في المثال اسفل : 
+اولا يجب ان نعرف ما هيا ال useContext : هي عبارة عن react hook و هي جزء من react `API` تسمح لنا بالاشتراك في ال context و توفر لنا الطريقة لكي نقوم بمشاركة البيانات في ال components tree بدون استخدام `props` بطريقة يدويه او استخدام `nesting components` كما في المثال اسفل : 
 
 
 - with introducing nesting: 
